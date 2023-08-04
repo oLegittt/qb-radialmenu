@@ -1,8 +1,25 @@
 # qb-radialmenu
-Radial Menu Used With QB-Core :arrows_counterclockwise:
+I made some small wee edits to qb-radialmenu nothing major just css edits to make it look like np :)
 
-**Now using FontAwesome Icons!**
-To change icons get the name from [FontAwesome](https://fontawesome.com/v5.0/icons?d=gallery&p=2&s=brands,light,regular,solid&m=free) (v5) and use the icon's name in the config.lua for the icon (no `fa-` or `#` just the name like `arrow-right`)
+# Dependencies
+qb-core: https://github.com/qbcore-framework/qb-core
+
+veh-control: https://github.com/Manvaril/vehcontrol
+
+dpemotes: https://github.com/andristum/dpemotes
+
+# Preview
+
+https://cdn.discordapp.com/attachments/1063625205316071495/1137001771143807137/image.png
+https://cdn.discordapp.com/attachments/1063625205316071495/1137001851913506906/image.png
+
+# Credits
+https://github.com/TonyCapon3/qb-radialmenu
+
+# Installtion 
+Step 1 Rename qb-radialmenu-npstyle to qb-radialmenu
+
+Step 2 Drag folder in the the [qb] Folder in your resources
 
 # License
 
